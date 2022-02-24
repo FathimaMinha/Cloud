@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'minhaz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FAD29BF545540C895EA32B45F456047 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40C9E35D6D6949FA996DBC8667CE5B8F }}
           package: .
